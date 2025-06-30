@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kami2k1" alt="kami2k1" /></a> </p>
 
 - 📫Telegram **@kami2k1**
-
+- 📫fb **https://www.facebook.com/kami2k1**
 - ⚡ Fun fact **Tôi yêu anime**
 
 <h3 align="left">Connect with me:</h3>
